@@ -32,6 +32,7 @@
  */
 
 #include "globule.h"
+#include "misc.h"
 
 int globule_init()
 {
